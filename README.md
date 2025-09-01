@@ -11,6 +11,7 @@ A modern full-stack **Task Manager** web application built with **React**, **Spr
 - Delete tasks with a ❌ red button  
 - Simple login form with styled UI  
 - Responsive design and clean layout
+- Secure login/registration feature with JWT
 
 ## 🧱 Tech Stack
 
